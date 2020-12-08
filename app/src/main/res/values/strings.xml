@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="name">Ivanov.I</string>
+    <string name="pass">******</string>
+    <string name="sign_in">Sign In</string>
+    <string name="mail">ivanov@gmail.com</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
